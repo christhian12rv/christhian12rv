@@ -34,5 +34,5 @@
 ## Analytics ⚙️
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christhian12rv&theme=github_dark">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=christhian12rv&theme=github_dark&show_icons=true">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christhian12rv&layout=compact&langs_count=8&hide=HCL&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=christhian12rv&theme=github_dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christhian12rv&layout=compact&langs_count=8&hide=HCL&theme=github_dark">
