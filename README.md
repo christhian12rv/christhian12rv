@@ -9,7 +9,7 @@
 ## Hi, i'm Christhian, a FullStack Developer from Brazil.
 <ul>
 <li	>📚 I'm currently studying Computer Science on <a href="http://www.ufu.br/">Universidade Federal de Uberlândia</a></li>
-<li	>💻 I'm currently studying NodeJs, MongoDB and intend to study ReactJs</li>
+<li	>💻 I'm currently studying NodeJs, MongoDB, MySQL and intend to study ReactJs</li>
 <li>💬 Ask me about anything <a href="https://github.com/christhian12rv/christhian12rv/issues">here</a></li>
 </ul>
 
