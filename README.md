@@ -1,54 +1,130 @@
-# Hello World! I'm Christhian  👋
+<div style="display: flex; align-items: center; gap: 10px; font-size: 30px; font-weight: bold; margin-bottom: 40px;">
+<span style="color: #52ED9D"><strong>Hi, I'm Christhian</strong></span>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+</div>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/christhian-rezende-vieira-6a9516212/"><img src="https://img.shields.io/badge/-christhianrezendevieira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/16642270/christhian?tab=profile"><img src="https://img.shields.io/badge/christhian-D16f37?style=flat-square&logo=Stackoverflow&logoColor=white"></a>
-<a href="mailto:christhian11rv@hotmail.com"><img src="https://img.shields.io/badge/-christhian11rv@hotmail.com-006fc9?style=flat-square&logo=MicrosoftOutlook&logoColor=white"></a>
-</p>
+<div align="center">
+  <p>Visitantes</p>
+  <img src="https://profile-counter.glitch.me/christhian12rv/count.svg" alt="Visitantes" />
+</div>
 
-## Hi, i'm Christhian, a FullStack Developer from Brazil.
-<ul>
-<li	>📚 I'm currently studying Computer Science on <a href="http://www.ufu.br/">Universidade Federal de Uberlândia</a></li>
-<li	>💻 I'm currently focusing on working and studying NodeJs, Express, ReactJs, Angular, Java, Spring, MongoDB and MySQL</li>
-<li>💬 Ask me about anything <a href="https://github.com/christhian12rv/christhian12rv/issues">here</a></li>
-</ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Languages & Tools 🛠
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" />
+  <span style="margin-left: 8px; font-size: 21px"><strong>Contact</strong></span>
+</div>
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/christhian-rezende-vieira/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:christhian11rv@hotmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</div>
 
-![Node.Js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hushed%20Face.png" alt="Hushed Face" width="25" height="25" />
+  <span style="margin-left: 8px; font-size: 21px"><strong>About me</strong></span>
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+I'm a Fullstack Developer from <span>&#x1f1e7;&#x1f1f7;</span> with solid expertise in <span style="color: #52ED9D"><strong>NodeJs</strong></span> with many years of experience in web and mobile projects. I have knowledge in building scalable and high-performance systems, delivering the maximum possible results with high efficiency.
 
-## Analytics ⚙️
+My focus is to create solutions that generate real value, solving complex problems with technology and contributing to the digital success of companies of different segments and sizes. My ultimate goal is to become an exceptional NodeJs expert and a trusted technical reference for my colleagues, contributing to innovative and impactful projects.
+
+My knowledge includes technologies such as <span style="color: #007DA3"><strong>React</strong></span>, <span style="color: #C23FDF"><strong>Angular</strong></span>, <span style="color: gray"><strong>Next</strong></span>, <span style="color: #E9255A"><strong>NestJs</strong></span>, <strong>SQL</strong>, <span style="color: #FF982C"><strong>AWS</strong></span>, <span style="color: #1862ED"><strong>Docker</strong></span>, and others, as well as agile methodologies such as <strong>Scrum</strong>.
+
+<div style="display: flex; align-items: center; gap: 10px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
+  I'm graduated in Computer Science from <a href="http://www.ufu.br/">Universidade Federal de Uberlândia</a></li>
+</div>
+<div style="display: flex; align-items: center; gap: 10px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
+  I have a technical degree in Information Technology from <a href="https://www.bambui.ifmg.edu.br/">IFMG - Campus Bambuí</a></li>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Peeking%20Eye.png" alt="Face with Peeking Eye" width="25" height="25" />
+  <span style="margin-left: 8px; font-size: 21px"><strong>Fun Fact</strong></span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
+  I love hear music
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Guitar.png" alt="Guitar" width="25" height="25" />
+  I love playing guitar
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
+  I love workout, running and sports
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+  I love playing games
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">
+  <span style="margin-left: 8px; font-size: 21px;"><strong>Skills and Knowledge</strong></span>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,java,python" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,maven,gradle" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,materialui,jquery" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,redux,express,nest,jest,spring,graphql" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,redis,elasticsearch,githubactions" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,mint,ubuntu,windows,vscode,postman,androidstudio,discord" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />
+  <span style="margin-left: 8px; font-size: 21px;"><strong>Analytics</strong></span>
+</div>
+
 <p align="left">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christhian12rv&theme=github_dark">
   <img width="59%" src="https://github-readme-stats.vercel.app/api?username=christhian12rv&theme=github_dark&show_icons=true">
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christhian12rv&layout=compact&langs_count=8&hide=HCL&theme=github_dark">
-</p
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div style="display: flex; align-items: center; margin-bottom: 50px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />
+  <span style="margin-left: 8px; font-size: 21px;"><strong>Ask me about anything <a href="https://github.com/christhian12rv/christhian12rv/issues">here</a></li></strong></span>
+</div>
+
+![christhian12rv](https://raw.githubusercontent.com/christhian12rv/christhian12rv/refs/heads/master/bottom_waves.svg)
